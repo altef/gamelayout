@@ -3,7 +3,6 @@ package;
 
 import flash.display.Sprite;
 import flash.events.Event;
-import ru.stablex.ui.UIBuilder;
 
 import com.gigglingcorpse.gamelayout.System;
 import com.gigglingcorpse.gamelayout.Memory;
